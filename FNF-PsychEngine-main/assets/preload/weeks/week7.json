@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Headache", "gar", [175,0,255]],
+		["Nerves", "garT", [175,95,175]],
+		["Release", "garG", [135,215,175]],
+		["Fading", "garG", [135,215,95]]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "gar",
+
+	"storyName": "SMOKE 'EM OUT STRUGGLE",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
